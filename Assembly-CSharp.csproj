@@ -61,7 +61,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Generator.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ShortMoveController.cs" />
+    <None Include="Assets\CommonAssets\Textures\README.txt" />
+    <None Include="Assets\CommonAssets\Fonts\LICENSE.txt" />
+    <None Include="Assets\CommonAssets\Fonts\README.txt" />
+    <None Include="Assets\CommonAssets\WebTreats\README.txt" />
     <None Include="Assets\CoinCrazyAssets\CoinCrazyAssets\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/ooeshoutarou/Geeksalon-Unity/Coin Character/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
